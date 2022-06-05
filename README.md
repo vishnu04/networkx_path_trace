@@ -78,3 +78,4 @@ Considering the image as forest/conservative area to find 2 non-overlapping path
 - Dilkina, B. (2016, November 8). Network Design Approaches to Multi-Species Biodiversity Conservation [Conference Presentation]. Computational Sustainability Virtual Seminar Series #4. Retrieved from https://www.youtube.com/watch?v=O4XCocHZ8Bc
 - Steiner Tree problem. GeeksforGeeks. (2016, December 12). Retrieved May 3, 2022, from https://www.geeksforgeeks.org/steiner-tree/ 
 - https://www.tensorflow.org
+- Contribution : Ashley Rayhill and Valerie Conner
